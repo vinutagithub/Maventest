@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="1.305" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Vinuta\IdeaProjects\MVM\my-maven-prj\target\test-classes;C:\Users\Vinuta\IdeaProjects\MVM\my-maven-prj\target\classes;C:\Users\Vinuta\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Users\Vinuta\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\Vinuta\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Users\Vinuta\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\Vinuta\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\Vinuta\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar;C:\Users\Vinuta\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\Vinuta\AppData\Local\Temp\surefire13438996644004506014\surefirebooter13588056338844596796.jar C:\Users\Vinuta\AppData\Local\Temp\surefire13438996644004506014 2020-07-30T01-29-25_958-jvmRun1 surefire50779115782431898tmp surefire_08359803388552673695tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Vinuta\IdeaProjects\MVM\my-maven-prj\target\test-classes;C:\Users\Vinuta\IdeaProjects\MVM\my-maven-prj\target\classes;C:\Users\Vinuta\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Users\Vinuta\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\Vinuta\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Users\Vinuta\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\Vinuta\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\Vinuta\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar;C:\Users\Vinuta\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Vinuta"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-01-15"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Vinuta\IdeaProjects\MVM\my-maven-prj"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Vinuta\AppData\Local\Temp\surefire13438996644004506014\surefirebooter13588056338844596796.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.2+9-LTS"/>
+    <property name="user.name" value="Vinuta"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\Vinuta\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Vinuta\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.2"/>
+    <property name="user.dir" value="C:\Users\Vinuta\IdeaProjects\MVM\my-maven-prj"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\gcc\gcc-arm-none-eabi-4_8-2014q3-20140805-win32\bin;C:\ti;C:\Program Files (x86)\Windows Live\Shared;C:\WINDOWS\System32\OpenSSH\;C:\wso2\apache-maven-3.6.0\bin;C:\Users\Vinuta\AppData\Local\Android\Sdk\build-tools\29.0.3;C:\Users\Vinuta\AppData\Local\Android\Sdk\platform-tools;C:\Users\Vinuta\AppData\Local\Android\Sdk\tools;C:\Program Files\Java\jdk-11.0.2\bin;C:\ti;C:\Program Files (x86)\Vim\vim80\ctags58;C:\Program Files (x86)\CodeBlocks\MinGW\bin;C:\Program Files (x86)\7-Zip;C:\Users\Vinuta\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.4\bin;;C:\Program Files\Docker Toolbox;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.2+9-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.mavenprj.demo.AppTest" time="0.013"/>
+  <testcase name="Test2" classname="com.mavenprj.demo.TestExample1" time="0.015"/>
+</testsuite>
